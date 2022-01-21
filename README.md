@@ -20,5 +20,5 @@
 
 
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Changlon&hide_border=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Changlon&show_icons=true&hide_border=true">
 </div>
